@@ -10,7 +10,7 @@ install model machine leaning
 npm i @tensorflow-models/mobilenet
 
 npm i @tensorflow-models/knn-classifier
-
+npm i @tensorflow/tfjs
 npm install howler
 ### Code Splitting
 
